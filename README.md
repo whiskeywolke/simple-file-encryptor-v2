@@ -8,7 +8,9 @@ Encrypts/Decrypts files/directories based on user provided password with AES256
 To find out usage run with the flag `-h`.
 Execution will guide through necessary steps if run without parameters/flags.
 
-### ⚠️ Warning
+A precompiled executable for 64Bit-Windows clients is located in `release/simple-encryptor.exe`
+
+## ⚠️ Warning
 
 Files that already exist in the decryption location will be overwritten.
 
