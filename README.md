@@ -8,7 +8,7 @@ Encrypts/Decrypts files/directories based on user provided password with AES256
 To find out usage run with the flag `-h`.
 Execution will guide through necessary steps if run without parameters/flags.
 
-A precompiled executable for 64Bit-Windows clients is located in `release/simple-encryptor.exe`
+A precompiled executable for 64Bit-Windows clients is located at [Releases](https://github.com/whiskeywolke/simple-file-encryptor-v2/releases/download/v1.0.1/simple-encryptor.exe)
 
 ## ⚠️ Warning
 
